@@ -37,7 +37,6 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Light.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Light.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Light.ttf') format('truetype');
 }
 @font-face {
@@ -46,7 +45,6 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Medium.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Medium.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Medium.ttf') format('truetype');
 }
 @font-face {
@@ -55,7 +53,6 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Bold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Bold.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Bold.ttf') format('truetype');
 }
 @font-face {
@@ -64,7 +61,6 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-ExtraBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-ExtraBold.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-ExtraBold.ttf') format('truetype');
 }
 @font-face {
@@ -73,7 +69,6 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Black.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Black.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Black.ttf') format('truetype');
 }
 ```
