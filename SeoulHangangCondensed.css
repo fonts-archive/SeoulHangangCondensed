@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Seoul Hangang Condensed';
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Seoul Hangang Condensed';
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Seoul Hangang Condensed';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Seoul Hangang Condensed';
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-ExtraBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Seoul Hangang Condensed';
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Black.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/SeoulHangangCondensed/SeoulHangangCondensed-Black.ttf') format('truetype');
+}
